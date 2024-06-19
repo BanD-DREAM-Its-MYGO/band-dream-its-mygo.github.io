@@ -1,4 +1,4 @@
-$("h2").focus(function(){
+$("h2").hover(function(){
   $(this).css("background-color", "#cccccc");
   $(this).css("color", "tomato");
 });
